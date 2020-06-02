@@ -1,9 +1,0 @@
-git status
-git init
-git config --global user.name "shefaligoel"
-git config --global user.email shefali.goel8@gmail.com
-git config user.name "shefaligoel"
-git config user.email shefali.goel8@gmail.com
-git add git log
-git commit -m ""
- 
